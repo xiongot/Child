@@ -2,21 +2,21 @@
 
 ## File Overview
 
-### `sample_comments`
+### `sample_comments.csv`
 - **theory**: Assigns a theoretical model to the comment.
 - **theme**: Lists the thematic keyword for the comment.
 - **sentiment**: Classifies the comment's tone as `hate` or `non-hate`.
 
-### `filtered_topics`
+### `filtered_topics.csv`
 - Provides topic infomation of comments clustered by Bertopic.
 
-### `classifier/AnnotationGuide`
+### `classifier/AnnotationGuide.md`
 - Provides the criteria for categorizing comments into 'hate' or 'non-hate'.
 
-### `classifier/experiments`
+### `classifier/experiments.csv`
 - Documents model performance metrics when fine-tuned with various parameter combinations.
 
-### `classifier/robustness`
+### `classifier/robustness.csv`
 - Records the final sentiment analysis model's robustness across different random seeds.
 
 ## Data Ethics
