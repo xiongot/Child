@@ -3,7 +3,7 @@
 ## File Overview
 
 ### `sample_comments`
-- **theory**: Assigns a theoretical model to the comment (`Patriarchy`, `Exchange`, `Sexual Script`).
+- **theory**: Assigns a theoretical model to the comment.
 - **theme**: Lists the thematic keyword for the comment.
 - **sentiment**: Classifies the comment's tone as `hate` or `non-hate`.
 
